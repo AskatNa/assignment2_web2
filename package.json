@@ -1,0 +1,21 @@
+{
+  "name": "assignment2_web2",
+  "version": "1.0.0",
+  "main": "date.js",
+  "scripts": {
+    "start": "nodemon date.js"
+  },
+  "keywords": [],
+  "author": "Askat Narinbetov",
+  "license": "ISC",
+  "description": "Weather API",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
